@@ -497,6 +497,7 @@ background-color: var(--background-socialblack-icon-hover);
 
 .portfolio-link{
   display: block;
+  text-decoration: none;
 }
 .portfolio-link:hover,
 .portfolio-link:focus
@@ -537,8 +538,8 @@ background-color: var(--background-socialblack-icon-hover);
 }
 
 .portfolio-list-text {
+  text-decoration: none;
   padding: 32px 0 32px 16px;
- 
-border: 1px solid #F4F4FD;
+  border: 1px solid #F4F4FD;
 
 }

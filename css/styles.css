@@ -274,8 +274,18 @@ body {
 }
 
 .solution-icon {
-width: 264px;
+width:64px;
 height: 112px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.solution-icon-bg {
+  background-image: url("../images/solution-icons/rectangle.svg");
+  background-size: 264px 112px;
+  margin-bottom: 8px;
 }
 
 /*what are we doing*/
